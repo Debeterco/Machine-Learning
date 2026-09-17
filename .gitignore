@@ -1,0 +1,14 @@
+# PlatformIO e IDEs
+.pio/
+.vscode/
+
+# Python e Ambientes Virtuais
+__pycache__/
+*.pyc
+.env
+venv/
+src/credentials.h
+
+# Dados temporários do streaming e predição
+stream_data/
+predictions/
