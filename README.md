@@ -1,4 +1,3 @@
-```markdown
 # Monitoramento Industrial e Predição de Desgaste com Machine Learning em Tempo Real
 
 Projeto prático desenvolvido para a disciplina de **Big Data e Tratamento de Dados** do curso técnico em **Cibersistemas para Automação**. 
